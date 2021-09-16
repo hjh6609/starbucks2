@@ -24,7 +24,7 @@
 
 .services {
   /* background-image: url('file:///C:/Users/gee/web-site2/src/assets/images/img--2.jpg'); */
-  background-image: url('/assets/images/img--2.jpg');
+  background-color: darkturquoise;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -34,7 +34,7 @@
 
 .products {
   /* background-image: url('file:///C:/Users/gee/web-site2/src/assets/images/img--1.jpg'); */
-  background-image: url('/assets/images/img--1.jpg');
+  background-color:darkblue
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
@@ -44,7 +44,7 @@
 
 .sign-up {
   /* background-image: url('file:///C:/Users/gee/web-site2/src/assets/images/img--8.jpg'); */
-  background-image: url('/assets/images/img--8.jpg');
+  background-color:cornflowerblue;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
